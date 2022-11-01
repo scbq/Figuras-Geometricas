@@ -1,0 +1,8 @@
+C:\Users\valen\OneDrive\Escritorio\programacion\SolFigurasMA05\conFigurasMA05\bin\Debug\conFigurasMA05.exe.config
+C:\Users\valen\OneDrive\Escritorio\programacion\SolFigurasMA05\conFigurasMA05\bin\Debug\conFigurasMA05.exe
+C:\Users\valen\OneDrive\Escritorio\programacion\SolFigurasMA05\conFigurasMA05\bin\Debug\conFigurasMA05.pdb
+C:\Users\valen\OneDrive\Escritorio\programacion\SolFigurasMA05\conFigurasMA05\obj\Debug\conFigurasMA05.csproj.AssemblyReference.cache
+C:\Users\valen\OneDrive\Escritorio\programacion\SolFigurasMA05\conFigurasMA05\obj\Debug\conFigurasMA05.csproj.SuggestedBindingRedirects.cache
+C:\Users\valen\OneDrive\Escritorio\programacion\SolFigurasMA05\conFigurasMA05\obj\Debug\conFigurasMA05.csproj.CoreCompileInputs.cache
+C:\Users\valen\OneDrive\Escritorio\programacion\SolFigurasMA05\conFigurasMA05\obj\Debug\conFigurasMA05.exe
+C:\Users\valen\OneDrive\Escritorio\programacion\SolFigurasMA05\conFigurasMA05\obj\Debug\conFigurasMA05.pdb
